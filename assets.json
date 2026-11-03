@@ -1,0 +1,30 @@
+[
+  {
+    "path": "instagram/first-judo-lesson-v1.jpg",
+    "width": 1080,
+    "height": 700,
+    "sha256": "079deb425deda55b8ff3c3cf26317cba2a32aaea124fd1321844364891a18dae",
+    "artwork_status": "approved",
+    "url_status": "verified_http_200_sha256_match_2026-11-03",
+    "raw_url": "https://raw.githubusercontent.com/schinning8-bot/chiiki-ryu-social-assets/main/instagram/first-judo-lesson-v1.jpg"
+  },
+  {
+    "path": "instagram/meet-chiiki-ryu-v1.jpg",
+    "width": 1080,
+    "height": 714,
+    "sha256": "90daaedc3a27d29bb34bcd1f7f8715a4e89dd40643d9f00a3ddaa34b94fde071",
+    "artwork_status": "approved",
+    "url_status": "verified_http_200_sha256_match_2026-11-03",
+    "raw_url": "https://raw.githubusercontent.com/schinning8-bot/chiiki-ryu-social-assets/main/instagram/meet-chiiki-ryu-v1.jpg"
+  },
+  {
+    "path": "tiktok/judo-for-young-people-v1.jpg",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "99181d8ade8c7a1aea8387155ea2184c0085be24ca1ba158005e3113cae973a3",
+    "artwork_status": "approved",
+    "url_status": "verified_http_200_sha256_match_2026-11-03",
+    "raw_url": "https://raw.githubusercontent.com/schinning8-bot/chiiki-ryu-social-assets/main/tiktok/judo-for-young-people-v1.jpg"
+  }
+]
+
